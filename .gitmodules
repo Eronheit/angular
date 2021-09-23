@@ -1,3 +1,9 @@
 [submodule "angular-services"]
 	path = angular-services
 	url = git@github.com:Eronheit/angular-services.git
+[submodule "angular-directives"]
+	path = angular-directives
+	url = git@github.com:Eronheit/angular-directives.git
+[submodule "angular-data-binding"]
+	path = angular-data-binding
+	url = git@github.com:Eronheit/angular-data-binding.git
