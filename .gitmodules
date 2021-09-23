@@ -1,0 +1,3 @@
+[submodule "angular-services"]
+	path = angular-services
+	url = git@github.com:Eronheit/angular-services.git
