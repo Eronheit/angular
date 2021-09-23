@@ -7,3 +7,6 @@
 [submodule "angular-data-binding"]
 	path = angular-data-binding
 	url = git@github.com:Eronheit/angular-data-binding.git
+[submodule "tour-of-heroes"]
+	path = tour-of-heroes
+	url = git@github.com:Eronheit/tour-of-heroes.git
