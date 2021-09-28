@@ -10,3 +10,9 @@
 [submodule "tour-of-heroes"]
 	path = tour-of-heroes
 	url = git@github.com:Eronheit/tour-of-heroes.git
+[submodule "angular-pipes"]
+	path = angular-pipes
+	url = git@github.com:Eronheit/angular-pipes.git
+[submodule "angular-routes"]
+	path = angular-routes
+	url = git@github.com:Eronheit/angular-routes.git
