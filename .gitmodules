@@ -16,3 +16,6 @@
 [submodule "angular-routes"]
 	path = angular-routes
 	url = git@github.com:Eronheit/angular-routes.git
+[submodule "angular-forms"]
+	path = angular-forms
+	url = git@github.com:Eronheit/angular-forms.git
